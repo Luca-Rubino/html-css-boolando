@@ -3,3 +3,57 @@
     margin: 0;
     padding: 0;
 }
+
+/* immagini */
+
+.webp1 {
+    width: 10rem;
+    height: 15rem;
+    background-image: url(../img/1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.webp1:hover {
+    background-image: url(../img/1b.webp);
+}
+
+.webp2 {
+    background-image: url(../img/2.webp);
+}
+
+.webp2:hover {
+    background-image: url(../img/2b.webp);
+}
+
+.webp3 {
+    background-image: url(../img/3.webp);
+}
+
+.webp3:hover {
+    background-image: url(../img/3b.webp);
+}
+
+.webp4 {
+    background-image: url(../img/4.webp);
+}
+
+.webp4:hover {
+    background-image: url(../img/4b.webp);
+}
+
+.webp5 {
+    background-image: url(../img/5.webp);
+}
+
+.webp5:hover {
+    background-image: url(../img/5b.webp);
+}
+
+.webp6 {
+    background-image: url(../img/6.webp);
+}
+
+.webp6:hover {
+    background-image: url(../img/6b.webp);
+}
